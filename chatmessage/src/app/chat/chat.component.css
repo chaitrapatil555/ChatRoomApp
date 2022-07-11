@@ -1,0 +1,31 @@
+.chat{
+    margin-top: 0rem;
+}
+div.chat-content{
+    border-radius: .25rem;
+    height: 70rem;
+    margin-bottom: 2rem;
+}
+.card{
+    height: 100%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 50px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmThj86UTp-I_ia0lrcyPzOuqXWXDKHf37Nw&usqp=CAU);
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size: cover;
+}
+.navbar-brand{
+    color:wheat;
+    text-shadow: 2,5,6;
+    font-style: italic;
+}
+.chat{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOClLuSeSxkQl7KvAUmitrQaneU-hqw5NmPA&usqp=CAU);
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size: cover;
+}
